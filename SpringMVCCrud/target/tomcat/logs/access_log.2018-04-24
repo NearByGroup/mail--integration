@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [24/Apr/2018:21:15:24 +0530] "CONNECT client.dropbox.com:443 HTTP/1.1" 400 - http-bio-8080-exec-7 0
+0:0:0:0:0:0:0:1 - - [24/Apr/2018:21:15:24 +0530] "CONNECT update.googleapis.com:443 HTTP/1.1" 400 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [24/Apr/2018:21:15:30 +0530] "CONNECT client.dropbox.com:443 HTTP/1.1" 400 - http-bio-8080-exec-8 0
+0:0:0:0:0:0:0:1 - - [24/Apr/2018:21:15:46 +0530] "CONNECT update.googleapis.com:443 HTTP/1.1" 400 - http-bio-8080-exec-9 0
+0:0:0:0:0:0:0:1 - - [24/Apr/2018:21:16:10 +0530] "POST /service/update2?cup2key=7:3693147332&cup2hreq=c2baf952c8e3b3dae1981702830d355e09b6e7e1f2dade0be24051334cf4d4fd HTTP/1.1" 404 981 http-bio-8080-exec-10 120
+0:0:0:0:0:0:0:1 - - [24/Apr/2018:21:16:18 +0530] "POST /service/update2?cup2key=7:2234093753&cup2hreq=c2baf952c8e3b3dae1981702830d355e09b6e7e1f2dade0be24051334cf4d4fd HTTP/1.1" 404 981 http-bio-8080-exec-10 1
+0:0:0:0:0:0:0:1 - - [24/Apr/2018:21:17:28 +0530] "CONNECT update.googleapis.com:443 HTTP/1.1" 400 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [24/Apr/2018:21:17:37 +0530] "CONNECT update.googleapis.com:443 HTTP/1.1" 400 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [24/Apr/2018:21:17:37 +0530] "POST /service/update2?cup2key=7:2022599636&cup2hreq=06b13e11c2696e71afd99f58e2b3fcc6da0bc4419efd8d02a18d97a82b7e5848 HTTP/1.1" 404 981 http-bio-8080-exec-5 4
